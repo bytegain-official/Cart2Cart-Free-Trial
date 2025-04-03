@@ -6,8 +6,7 @@ This helps you see if it works well for you. Wondering if it’s worth trying? T
 
 ## Is Cart2Cart Free to Try?
 
-![image](https://github.com/user-attachments/assets/4a840fb1-dfce-4404-8600-80ce0c316eb3)
-
+![image](https://github.com/user-attachments/assets/5fbfef9b-7156-487b-b980-954b2767c986)
 
 Yes! Cart2Cart offers a FREE Demo Migration. It lets you:
 
@@ -26,12 +25,12 @@ Keeps your data safe during the move.
 
 It can also pull in data from files like CSVs and move things like reviews or coupons. You can keep selling while it works, and they offer 24/7 help if you need it.
 
-[![image](https://github.com/user-attachments/assets/bb5f11a8-f6af-447e-b095-77aaceac7bbf)
+[![image](https://github.com/user-attachments/assets/841157b1-6dfc-4b4b-9ee0-2d4f7e5e81ec)
 ](https://www.bytegain.com/Recommended/cart2cart/)
 
 ## Cart2Cart Free Trial Steps
 
-![image](https://github.com/user-attachments/assets/103146ef-0458-4b3a-a216-6cb6d38e4703)
+![image](https://github.com/user-attachments/assets/0b6b3c47-a569-43a4-a325-f311f715c270)
 
 Here’s how to try it:
 
@@ -48,7 +47,7 @@ Test the migration to see if it works for you.
 
 ## Cart2Cart Pricing - How much does it cost?
 
-![image](https://github.com/user-attachments/assets/36202a82-e1a5-497e-b7b9-49b43769024c)
+![image](https://github.com/user-attachments/assets/e3f05ef8-6edc-48d9-84c6-6b6c53697bb9)
 
 Starts at $69, but it depends on how much data you’re moving.
 
@@ -116,7 +115,9 @@ Doesn’t work with every platform.
 
 The online shopping world keeps changing, and businesses need tools to switch platforms easily. Cart2Cart helps you move your store data with just a few clicks. 
 
+
+
 It’s handled over 250,000 migrations and supports 90+ platforms. No tech skills needed, takes less than 2 hours, and your store keeps running smoothly. Ready to give it a shot?
 
-[![image](https://github.com/user-attachments/assets/c372ef18-29b5-47ec-9967-9fd9229c9803)
+[![image](https://github.com/user-attachments/assets/2a63e2b5-3272-4dcf-b67f-75f71413811f)
 ](https://www.bytegain.com/Recommended/cart2cart/)
